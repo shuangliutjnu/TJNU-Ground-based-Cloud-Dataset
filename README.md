@@ -4,5 +4,16 @@ The TJNU ground-based cloud dataset (GCD) is collected from 2019 to 2020 in nine
 
 ![image](https://github.com/shuangliutjnu/TJNU-Ground-based-Cloud-Dataset/blob/master/image.jpg)
 
+# If you use this dataset in your research, please kindly cite our work as,
+
+@article{liu2021ground,  
+  title = {ground-based remote sensing cloud classification via context graph attention network},  
+  author = {Liu, Shuang and Duan, Linlin and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},  
+  journal = {IEEE Transactions Geoscience and Remote Sensing},  
+  DOI = {10.1109/TGRS.2021.3063255},  
+  year = {2021},  
+  publisher = {Institute of Electrical and Electronics Engineers Inc.}  
+}
+
 # Download
 Please download, fill and sign the [GCD Agreement](https://github.com/shuangliutjnu/TJNU-Ground-based-Cloud-Dataset/blob/master/GCD%20Agreement.pdf) and return the whole document to shuangliu.tjnu@gmail.com or s.liu@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
