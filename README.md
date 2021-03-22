@@ -10,7 +10,7 @@ The TJNU ground-based cloud dataset (GCD) is collected from 2019 to 2020 in nine
   title = {ground-based remote sensing cloud classification via context graph attention network},  
   author = {Liu, Shuang and Duan, Linlin and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},  
   journal = {IEEE Transactions on Geoscience and Remote Sensing},  
-  DI = {10.1109/TGRS.2021.3063255},  
+  DoI = {10.1109/TGRS.2021.3063255},  
   year = {2021},  
   publisher = {Institute of Electrical and Electronics Engineers Inc.}  
 }
