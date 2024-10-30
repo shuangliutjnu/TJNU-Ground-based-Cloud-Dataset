@@ -17,4 +17,4 @@ image
 }
 
 # Download
-Before downloading the dataset, you should warrant that you have read and understood all elements contained in the GCD Agreement. [Downloading](https://drive.google.com/file/d/1dsgoEQLqR3YrOMBC_hOsVEUQC7HuV2fN/view?usp=sharing) and using GCD for your research means that you agree to all restrictions and requirements in the GCD Agreement.
+Before downloading the dataset, you should warrant that you have read and understood all elements contained in the [GCD Agreement](https://github.com/shuangliutjnu/TJNU-Ground-based-Cloud-Dataset/blob/main/GCD%20Agreement.pdf). [Downloading](https://drive.google.com/file/d/1dsgoEQLqR3YrOMBC_hOsVEUQC7HuV2fN/view?usp=sharing) and using GCD for your research means that you agree to all restrictions and requirements in the GCD Agreement.
